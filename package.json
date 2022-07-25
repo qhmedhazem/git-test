@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "0.0.1",
+  "description": "No one",
+  "main": "index.js",
+  "scripts": {
+    "start": "git pull https://github.com/qhmedhazem/git-test.git master && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qhmedhazem/git-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qhmedhazem/git-test/issues"
+  },
+  "homepage": "https://github.com/qhmedhazem/git-test#readme"
+}
